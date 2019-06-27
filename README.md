@@ -1,6 +1,6 @@
 # Biomedical Citation Selector (BmCS)
 
-This repository contains the source code for the combination of 
+This is the Indexing Initiative repository which contains the source code for the combination of 
 a CNN and voting ensemble in the prediction of citations requiring
 MeSH indexing
 
