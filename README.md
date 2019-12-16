@@ -93,11 +93,11 @@ pmid|prediction|probability|NLM journal ID
 For journals that have, in the past, been misindexed and are among those that
 we have shown to significantly detract from performance, no prediction will be provided. 
 
-In the prediction field, 4 labels are possible:
-0: Out-of-scope for indexing
-1: Not out-of-scope for indexing
-2: Citation is of a publication type that should be reviewed by indexers.
-3: Very certain that the citation is in-scope for indexing. This citation should be automatically sent to the indexers. 
+In the prediction field, 4 labels are possible  
+0: Out-of-scope for indexing.       
+1: Not out-of-scope for indexing   
+2: Citation is of a publication type that should be reviewed by indexers.   
+3: Very certain that the citation is in-scope for indexing. This citation should be automatically sent to the indexers.    
 
 
 ### Command line options:
@@ -172,14 +172,14 @@ This will output a performance report into the file BmCS_test_results.txt in the
 It is not necessary to include the --path option when running these tests. 
 For a given test the following information is appended to the BmCS_test_results.txt file:
 
-Date
-All command line keywords and values
-BmCS recall
-BmCS precision
-Voting recall
-Voting precision
-CNN recall
-CNN precision
+Date  
+All command line keywords and values  
+BmCS recall  
+BmCS precision  
+Voting recall  
+Voting precision  
+CNN recall  
+CNN precision  
 
 Once the program is installed run both of the following commands: 
 ```
