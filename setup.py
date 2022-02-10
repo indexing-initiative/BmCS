@@ -25,7 +25,7 @@ setuptools.setup(
             "numpy>=1.14.3",
             "scipy>=1.1.0",
             "scikit-learn==0.20.2",
-            "tensorflow==1.11.0",
+            "tensorflow==2.5.3",
             "Keras==2.2.4",
             "python-dateutil",
             "nltk"
